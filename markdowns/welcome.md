@@ -1,9 +1,7 @@
 # Ada complementary exercises
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
-
-
-Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
+These exercices are intended for the braves learning algorithmics in Ada. Don't listen to the haters, Ada is pedagogic as hell, Onizuka-style (
+you know, the brilliant mind creator of the pedagogic roundhous kick).
 
 # Template Resources
 
