@@ -5,7 +5,7 @@ you know, the brilliant mind creator of the pedagogic roundhous kick).
 
 # Hello world
 
-@[Running a hello world]({"stubs": ["hello_world.adb"], "command": "ls", "project":"ada"})
+@[Running a hello world]({"stubs": ["hello_world.adb"], "command": "sh start.sh", "project":"ada"})
 
 # Template Resources
 
