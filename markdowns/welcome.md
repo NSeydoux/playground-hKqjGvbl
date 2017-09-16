@@ -5,7 +5,9 @@ you know, the brilliant mind creator of the pedagogic roundhous kick).
 
 # Hello world
 
-@[Running a hello world]({"stubs": ["hello_world.adb"], "command": "gnatmake hello_world.adb && ./hello_world"})
+@[Running a hello world]({"stubs": ["hello_world.adb"], "command": "gnatmake hello_world.adb >  && ./hello_world"})
+
+@[Test]({"stubs": ["hello_world.adb"], "command": "echo blabla && touch test"})
 
 # Template Resources
 
