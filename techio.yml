@@ -1,4 +1,9 @@
-title: Custom Template
+title: Learning algorithmics with Ada
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+
+projects:
+  ada:
+    root: /ada-project
+    runner: nseydoux/ada-tutorial:lesson_0

@@ -3,6 +3,11 @@
 These exercices are intended for the braves learning algorithmics in Ada. Don't listen to the haters, Ada is pedagogic as hell, Onizuka-style (
 you know, the brilliant mind creator of the pedagogic roundhous kick).
 
+# Hello world
+
+@[Running a hello world]
+({"stubs": ["hello_world.adb"], "command": "gnatmake hello_world.adb"})
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/techio-basic-template/blob/master/markdowns/welcome.md)  
