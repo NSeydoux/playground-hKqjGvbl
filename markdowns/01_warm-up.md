@@ -38,4 +38,4 @@ Précision : chaque ligne de données possède un espace entre chaque paramètre
     Gl@dos-Spaaaaccce ALB 00:52:46
     Graretlan ESP 00:54:23
 
-@[Classement trackmania]({"stubs": ["test-io.adb"], "command": "sh start.sh", "project":"01_warm-up"})
+@[Classement trackmania]({"stubs": ["test_-_io.adb"], "command": "sh start.sh", "project":"01_warm-up"})
