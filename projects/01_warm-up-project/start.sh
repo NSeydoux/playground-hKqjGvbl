@@ -1,9 +1,9 @@
 #! /bin/bash
 
-gnatmake test-io.adb
-gnatmake test-io_correction.adb 2> /dev/null
-cat input | ./test-io | tee log.out
-cat input | ./test-io_correction > correction.out
+gnatmake test_io.adb
+gnatmake test_io_correction.adb 2> /dev/null
+cat input | ./test_io | tee log.out
+cat input | ./test_io_correction > correction.out
 if [ -z `diff log.out correction.out`] 
 then
 	echo "Correct !"
