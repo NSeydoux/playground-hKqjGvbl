@@ -1,7 +1,9 @@
 title: Learning algorithmics with Ada
 plan:
 - title: Welcome
-  statement: markdowns/welcome.md
+  statement: markdowns/00_welcome.md
+- title: Warming up
+  statement: markdowns/01_warm-up.md
 
 projects:
   00_welcome:
