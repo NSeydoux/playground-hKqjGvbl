@@ -4,6 +4,9 @@ plan:
   statement: markdowns/welcome.md
 
 projects:
-  ada:
-    root: /ada-project
+  00_welcome:
+    root: /projects/00_welcome-project
+    runner: nseydoux/ada-tutorial:lesson_0
+  01_warm-up:
+    root: /projects/01_warm-up-project
     runner: nseydoux/ada-tutorial:lesson_0
