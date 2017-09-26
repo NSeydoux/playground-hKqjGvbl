@@ -12,4 +12,4 @@ Out of the 50 first EVE-lyn DL.IA observations, what is the weakest wind observe
 
 Out of the 50 first EVE-lyn DL.IA ovbservations, what is the average apparent temperature ?  Write a function Average_Apparent_Temperature that answers this question.
 
-@[Statistics]({"stubs": ["statistics.adb", "evelyn_dlia.ads"], "command": "sh statistics.sh", "project":"space_explorers"})
+@[Statistics]({"stubs": ["mission_statistics.adb", "evelyn_dlia.ads"], "command": "sh mission_statistics.sh", "project":"space_explorers"})
