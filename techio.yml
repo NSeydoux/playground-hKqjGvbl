@@ -2,8 +2,12 @@ title: Learning algorithmics with Ada
 plan:
 - title: Welcome
   statement: markdowns/00_welcome.md
-- title: Warming up
-  statement: markdowns/01_warm-up.md
+- title: Mission space meteo
+  statement: markdowns/01_presentation.md
+- title: Mission apparent temperature 
+  statement: markdowns/02_apparent_temperature.md
+- title: Mission statistics
+  statement: markdowns/03_statistics.md
 
 projects:
   00_welcome:
@@ -11,4 +15,7 @@ projects:
     runner: nseydoux/ada-tutorial:lesson_0
   01_warm-up:
     root: /projects/01_warm-up-project
+    runner: nseydoux/ada-tutorial:lesson_0
+  space_explorers:
+    root: /projects/space_explorers
     runner: nseydoux/ada-tutorial:lesson_0

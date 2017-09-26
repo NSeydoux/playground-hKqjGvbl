@@ -15,4 +15,4 @@ Below is a demonstration coding exercise. The assignment is the following : The 
 
 @[Hello world demonstrator]({"stubs": ["hello_world.adb"], "command": "sh start.sh", "project":"00_welcome"})
 
-To run the example, press the big "Run" button (no shit Scherlock). The ada compiler displays its output in the standard error, and your program in the standard output. If your program behaves the way it is intended, the word "Correct" will be displayed at the last line. Otherwise, "Incorrect" will be displayed, along with an explanation of what went wrong (roughly).
+To run the example, press the big "Run" button (no shit Scherlock). The ada compiler displays its output in the standard error, and your program in the standard output. 
